@@ -68,3 +68,4 @@ l.show()
 
 l.inverter()
 l.show()
+print("Adicionando algo")
