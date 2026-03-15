@@ -149,6 +149,6 @@ class Les():
                 
     
     def inverter(self):
-        self.vetor.reverse()
-        
-                
+        print(self.vetor)
+        for i in range(self.quantidade, 0, -1):
+            return self.vetor[i-1]

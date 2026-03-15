@@ -58,14 +58,5 @@ l.show()
 
 l.inserir_antes(10, 3)
 l.show()
-
-print(l.get_valor(0))
-
-print(l.contar_maiores(2))
-
-l.trocar(2, 0)
-l.show()
-
-l.inverter()
-l.show()
 print("Adicionando algo")
+l.inverter()    
