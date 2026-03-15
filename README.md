@@ -1,1 +1,1 @@
-Código criado pela aula, esse código não foi feita a corre
+Código criado pela aula, esse código não foi feita a correções.
